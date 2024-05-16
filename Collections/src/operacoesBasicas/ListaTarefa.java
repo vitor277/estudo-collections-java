@@ -40,12 +40,12 @@ public class ListaTarefa {
       System.out.println("A lista está vazia!");
     }
   }
-
+  /* 
   public static void main(String[] args) {
     // Criando uma instância da classe ListaTarefa
     ListaTarefa listaTarefa = new ListaTarefa();
 
-    // Adicionando tarefas à lista
+    / Adicionando tarefas à lista
     listaTarefa.adicionarTarefa("Comprar leite");
     listaTarefa.adicionarTarefa("Estudar para o exame");
     listaTarefa.adicionarTarefa("Fazer exercícios");
@@ -70,5 +70,8 @@ public class ListaTarefa {
 
     // Exibindo o número total de tarefas na lista após tentar remover de uma lista vazia
     System.out.println("Agora você tem " + listaTarefa.obterNumeroTotalTarefas() + " tarefas na lista:");
-  }
+  }*/
+
+  
+
 }
